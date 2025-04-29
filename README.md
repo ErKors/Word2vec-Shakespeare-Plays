@@ -1,5 +1,5 @@
 # Objective
-Using Word2Vec, we want to create word embeddings in order to find relationships between characters.
+To create word embeddings using Word2Vec in order to find relationships between characters in various Shakespeare plays
 
 # Data
 Over 100,000 records containing lines from Shakespeare's Plays
