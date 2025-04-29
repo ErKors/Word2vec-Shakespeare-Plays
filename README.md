@@ -3,3 +3,6 @@ Using Word2Vec, we want to create word embeddings in order to find relationships
 
 # Data
 Over 100,000 records containing lines from Shakespeare's Plays
+
+# Side Note
+Absolutley my favorite assignment to date
